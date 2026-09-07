@@ -55,3 +55,35 @@ section{margin-bottom:120px}.reveal{opacity:0;transform:translateY(35px);transit
   .flower{min-height:650px}.flower-head{width:350px;height:250px;top:90px;padding:25px}.mini-face{width:65px;height:65px}.bouquet-paper{width:300px;top:270px}.stem{top:400px}.flower-wrap{height:500px}
   .reason-grid{grid-template-columns:1fr}.last-page h2{font-size:3.3rem}
 }
+
+/* isi kelopak bunga dengan foto */
+.flower-head .mini-face{
+  background-size:cover !important;
+  background-position:center !important;
+  background-repeat:no-repeat !important;
+  overflow:hidden;
+}
+
+.flower-head .f1{
+  background-image:url('memory-01.jpg') !important;
+}
+
+.flower-head .f2{
+  background-image:url('memory-02.jpg') !important;
+}
+
+.flower-head .f4{
+  background-image:url('memory-04.jpg') !important;
+}
+
+.flower-head .f5{
+  background-image:url('memory-05.jpg') !important;
+}
+
+.flower-head .f7{
+  background-image:url('memory-07.jpg') !important;
+}
+
+.flower-head .f8{
+  background-image:url('memory-08.jpg') !important;
+}
